@@ -1,0 +1,10 @@
+{
+  "name": "nodejs_maildev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zyzyx03",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  }
+}
