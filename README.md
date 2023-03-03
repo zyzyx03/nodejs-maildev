@@ -8,4 +8,4 @@ export NODE_ENV=prod
 
 ### Result
 
-<img src="./images/maildev-email-received.png" style="height: 600px; width:1100px;"/>
+<img src="./images/maildev-email-received.png" style="height: 400px; width:1100px;"/>
